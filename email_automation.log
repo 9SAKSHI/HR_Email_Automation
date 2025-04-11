@@ -1,0 +1,2 @@
+2025-03-25 11:34:33,102 - ERROR: Configuration load error: [Errno 2] No such file or directory: 'config.xlsx'
+2025-03-25 11:34:38,082 - ERROR: Configuration load error: [Errno 2] No such file or directory: 'config.xlsx'
